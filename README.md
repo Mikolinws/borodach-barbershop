@@ -37,3 +37,7 @@ barbershop/
     ├── work-4.jpg
     ├── work-5.jpg
     └── work-6.jpg ```
+
+ ## Сайт
+ Сайт будет опубликован через GitHub Pages.
+

@@ -556,3 +556,22 @@ background-size: 40px 40px;
 .footer p:last-shild{
     color: #aaa;
 }
+@media (max-width: 768px) {
+    header {
+        flex-direction: column;
+        gap: 20px;
+        padding: 2opx;
+    }
+    header nav {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 15px;
+    }
+    header nav a {
+        font-size: 14px;
+    }
+    header .booking-btn{
+        width: 100%;
+        text-align: center;
+    }
+}
